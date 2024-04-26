@@ -7,11 +7,11 @@ Setting Up User Name and Email Address
 ## 账号名配置
 
 ```
-git config --global user.name "icebergred"
+git config --global user.name "feanlau"
 ```
 
 ## 邮箱配置
 
 ```
-git config --global user.email icebergred@qq.com
+git config --global user.email feanlau@outlook.com
 ```
